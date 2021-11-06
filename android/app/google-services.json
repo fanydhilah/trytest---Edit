@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "351280027408",
+    "firebase_url": "https://jawabot-2c673-default-rtdb.firebaseio.com",
+    "project_id": "jawabot-2c673",
+    "storage_bucket": "jawabot-2c673.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351280027408:android:df2bcf4ccc5793650e7795",
+        "android_client_info": {
+          "package_name": "com.example.trytest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351280027408-mj9cfog0hme2rillipb92j51859pm9ee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALZs7xeozSN4IxIVPgvATP2xAviOu3zAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351280027408-mj9cfog0hme2rillipb92j51859pm9ee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
